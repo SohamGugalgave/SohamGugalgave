@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SohamGugalgave
 - 👀 I’m interested in web development and software development.
-- 🌱 I’m currently pursuing in final year computer engineering.
+- 🌱 I have completed computer engineering.
 - 💞️ I’m looking to collaborate on real world project.
 - 📫 How to reach me mail me on 
 sohamgugal2002@gmail.com 
